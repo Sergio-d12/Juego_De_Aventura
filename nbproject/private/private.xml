@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Isabel/Juego_De_Aventura/src/inventario/Objeto.java</file>
-            <file>file:/C:/Users/Isabel/Juego_De_Aventura/src/inventario/Pocion.java</file>
+            <file>file:/C:/Users/JUAN%20DAVID/Juego_De_Aventura/src/jugador/Guerrero.java</file>
+            <file>file:/C:/Users/JUAN%20DAVID/Juego_De_Aventura/src/jugador/Mago.java</file>
+            <file>file:/C:/Users/JUAN%20DAVID/Juego_De_Aventura/src/jugador/Personaje.java</file>
+            <file>file:/C:/Users/JUAN%20DAVID/Juego_De_Aventura/src/principal/Main.java</file>
         </group>
     </open-files>
 </project-private>
